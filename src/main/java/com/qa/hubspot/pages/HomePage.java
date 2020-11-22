@@ -8,7 +8,7 @@ import com.qa.hubspot.base.BasePage;
 public class HomePage extends BasePage{
 	WebDriver driver;
 	
-	//Page Object/By locators
+	//Page Object / By locators
 	By logo=By.xpath("//a[@id='nav-primary-home']//parent::li[@class='home link currentPage']");
 	
 	
