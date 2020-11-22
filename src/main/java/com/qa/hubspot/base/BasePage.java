@@ -19,7 +19,7 @@ public class BasePage {
 	Properties prop;
 
 	/**
-	 * this method is used to initialize the driver on the basis of browser
+	 * This method is used to initialize the driver on the basis of browser
 	 * 
 	 * @param browser
 	 * @return driver
